@@ -1,6 +1,6 @@
 # Dashboard-for-HR-manager
 
-The dashboard supports HR decision-making, cost control, workforce structure analysis, and the assessment of employee benefits usage (Kokpit wspiera podejmowanie decyzji kadrowych, kontrolę kosztów, analizę struktury zatrudnienia oraz ocenę wykorzystania benefitów pracowniczych).
+The dashboard supports HR decision-making, cost control, workforce structure analysis, and the assessment of employee benefits usage. (Kokpit wspiera podejmowanie decyzji kadrowych, kontrolę kosztów, analizę struktury zatrudnienia oraz ocenę wykorzystania benefitów pracowniczych.)
 
 ---
 
