@@ -38,6 +38,6 @@ Projekt wykonany w ramach studiów.  [Czerwiec 2025]
 ## Funkcje kokpitu:
 - Interaktywne wizualizacje
 - Filtrowanie danych
-  Kafle wskaźnikowe
+- Kafle wskaźnikowe
 - Możliwość przechodzenia między zakładkami
 
